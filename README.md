@@ -1,6 +1,8 @@
 # CaptureImage
 Tutorial Menampilkan Lokasi dan Detail Gambar dari Kamera dengan Android Studio
 
+Jadi pada intinya, source code ini Menampilkan Lokasi Pengambilan Gambar, Ukuran Gambar, Nama Gambar, Lokasi Penyimpanan dan Info Device yang digunakan untuk mengambil gambar tersebut.
+
 # Tutorial Build with Android Studio
 https://youtu.be/Qc5EWqF59W0
 
